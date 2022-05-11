@@ -1,0 +1,258 @@
+body {
+  margin: 0;
+  font-size: 17px;
+}
+.topo_header {
+  width: 100%;
+  height: 69px;
+}
+.second_header {
+  width: 100%;
+  height: 58px;
+  border-bottom: 1px solid gainsboro;
+}
+.logo_google {
+  width: 92px;
+  height: 30px;
+  margin-top: 35px;
+  margin-left: 25px;
+  margin-right: 45px;
+}
+.topo_search_header {
+  width: 692px;
+  height: 46px;
+  border-radius: 30px;
+  border: 1px solid #c9c7c7;
+  margin-top: 25px;
+}
+input {
+  width: 493px;
+  height: 42px;
+  margin: 2px 22px 0px;
+  padding: 0px 0px 3px;
+  border: 0px;
+  font-size: 15px;
+  outline: 0;
+  background-color: transparent;
+}
+.images_search {
+  display: flex;
+  justify-content: flex-end;
+  margin: -33px 0px 0px;
+}
+.teclado_search {
+  width: 24px;
+  height: 24px;
+}
+.microfone_search {
+  width: 24px;
+  height: 24px;
+  padding-left: 12px;
+}
+.lupa_search {
+  width: 26px;
+  height: 26px;
+  margin-right: 18px;
+  padding-left: 12px;
+}
+.images_topo_header {
+  display: flex;
+  justify-content: flex-end;
+  margin: -33px 120px 0px;
+  padding-right: 15px;
+}
+.engrenagem_search, .apps_search {
+  width: 23px;
+  height: 23px;
+  padding-right: 20px;
+  margin-bottom: 10px;
+} 
+.space_header {
+  display: flex;
+  justify-content: flex-start;
+}
+.login {
+  background-color: #1a73e8;
+  padding: 9px 17px;
+  border: 1px solid #1671e7;
+  border-radius: 3px;
+  margin-right: 20px;
+}
+.login a {
+  text-decoration: none;
+  color: white;
+}
+.div_button {
+  display: flex;
+  justify-content: flex-end;
+  margin: -44px 0px 0px;
+}
+.second_menu {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 832px;
+  height: 50px;
+  padding-top: 11px;
+  font-size: 16px;
+  color: dimgray;
+}
+.noticia_menu, .video_menu {
+  width: 16px;
+  height: 16px;
+  padding-left: 22px;
+  padding-right: 7px;
+}
+.etiqueta_menu, .imagem_menu {
+  width: 12px;
+  height: 12px;
+  padding-left: 22px;
+  padding-right: 7px;
+}
+.lupa_menu {
+  width: 13px;
+  height: 13px;
+  padding-left: 21px;
+  padding-right: 7px;
+}
+.menu_menu {
+  width: 12px;
+  height: 12px;
+  padding-left: 22px;
+}
+.button_menu {
+  margin-left: 60px;
+  margin-right: -10px;
+  border: 0px;
+  outline: 0;
+  background-color: transparent;
+  color: dimgray;
+}
+.second_menu a {
+  text-decoration: none;
+  color: #4d5156;
+}
+p, .text {
+  color: #4d5156;
+}
+p {
+  font-size: 16px;
+}
+.site_seguro {
+  width: 18px;
+  height: 18px;
+}
+.site_seguro {
+  padding-right: 5px;
+}
+.seta_direita, .seta_baixo {
+  width: 8px;
+  height: 8px;
+}
+h3 {
+  color:#1A0DAB;
+  font-family: Arial;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 0px;
+}
+.text {
+  margin: -6px 0px 0px;
+}
+.resultados {
+  width: 660px;
+  height: 1320px;
+  padding-left: 184px;
+}
+.pages {
+  display: flex;
+  justify-content: center;
+  width: 870px;
+  height: 45px;
+}
+.letra1 {
+  width: 28px;
+  height: 40px;
+  color: #1671e7;
+}
+.letra2, .letra3, .letra4, .letra5, .letra6 {
+  width: 20px;
+  height: 40px;
+}
+.letra2, .letra6 {
+  color: red;
+}
+.letra3 {
+  color: rgb(230, 183, 52);
+}
+.letra4 {
+  color: #1671e7; 
+}
+.letra5 {
+  color: green;
+}
+.seta_azul {
+  width: 14px;
+  height: 14px;
+  margin-top: 11px;
+  padding-left: 15px;
+}
+.letra1, .letra2, .letra3, .letra4, .letra5, .letra6 {
+  font-size: 35px;
+  font-family: Arial;
+  font-weight: bold;
+  padding-right: 1px;
+}
+#resto {
+  display: flex;
+  justify-content: flex-end;
+  width: 615px;
+  height: 40px;
+  margin: -45px 0px 0px;
+}
+.pagina {
+  display: flex;
+  justify-content: flex-end;
+  width: 531px;
+  height: 70px;
+}
+.numero {
+  color: #1671e7;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 1.5px;
+}
+.mais {
+  display: flex;
+  justify-content: flex-end;
+  width: 632px;
+  height: 40px;
+  margin: -70px 0px 0px;
+}
+.palavra {
+  text-decoration: none;
+  color: #1671e7;
+}
+.footer1, .footer2 {
+  width: 100%;
+  height: 50px;
+  background-color: rgb(226, 221, 221);
+}
+.footer1 {
+  border-bottom: 1px solid darkgray;
+  margin-top: 30px;
+}
+.palavra_unica {
+  color: #363636;
+  padding-left: 185px;
+  padding-top: 17px;
+}
+.menu_footer {
+  color: #363636;
+  text-decoration: none;
+  padding-left: 25px;
+}
+.menu_position {
+  padding-top: 17px;
+  padding-left: 160px;
+}
